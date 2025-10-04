@@ -1,0 +1,13 @@
+# Node.js dependencies
+node_modules
+npm-debug.log
+.npm
+
+# Environment and configuration files
+.env
+.DS_Store
+
+# Backup/unnecessary files
+*.bck
+index.html.bck
+server.js.bck
